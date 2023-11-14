@@ -4,27 +4,27 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# ONG Fórum da Cidade
 
-## Nome do Grupo
+## ONG Fórum da Cidade
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Rafael Pinto da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Henrique Corte Viana</a>, <a href="https://www.linkedin.com/in/victorbarq/">Mateus Macedo Batista De Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joao Victor Domingues De Araujo Sousa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Italo Da Silva Lima</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="ONG Fórum da Cidade" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Nosso projeto possui como o objetivo auxiliar as ações da ONG Fórum da Cidade por meio de um site em que não somente aumente a visibilidade da causa, mas também possibilite a inscrição de voluntários para reuniões em que exerção sua cidadania com foco em apoiar aqueles que se encontram em situações delicadas tais como moradores de rua.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Tanto nós quanto a ONG Fórum da Cidade e suas parceiras temos como objetivo conduzir o nosso futuro para uma sociedade mais justa e solidaria em que as vozes daqueles que são "invisiveis" sejam ouvidas.
 <br><br>
-May the force be with you!
+Juntos para uma Sociedade de harmonia e justiça!
 <br><br>
 
 ## 🛠 Estrutura de pastas
